@@ -33,11 +33,11 @@
 
 ## How to Run
 
-1. Save the game file as `testinggame.py`.
+1. Save the game file as `game.py`.
 2. Open a terminal or command prompt.
 3. Run the game using the command:
    ```bash
-   python testinggame.py
+   python game.py
 
 
 ## Example Gameplay
